@@ -31,13 +31,16 @@ Sanket G. (2026). metalwings-design/apmc-mandi-data-maharashtra: Maharashtra APM
 
 **BibTeX:**
 ```bibtex
-@dataset{apmc_mandi_26,
-  author = {Sanket Gharat},
-  title = {Maharashtra APMC mandi dataset},
-  year = {2026},
-  doi = {10.5281/zenodo.19953413},
-  url = {https://github.com/yourusername/agro-insight},
-  version = {1.0},
-  license = {GPL-3.0}
+@software{sanket_g_2026_19891971,
+  author       = {Sanket G.},
+  title        = {metalwings-design/apmc-mandi-data-maharashtra:
+                   Maharashtra APMC mandi dataset
+                  },
+  month        = apr,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.19891971},
+  url          = {https://doi.org/10.5281/zenodo.19891971},
 }
 
