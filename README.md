@@ -27,7 +27,7 @@ This data can be used for:
 ## Citation
 If you use this data, please cite:
 
-Sanket Gharat (2026). metalwings-design/apmc-mandi-data-maharashtra: Maharashtra APMC mandi dataset (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19891971
+Sanket G. (2026). metalwings-design/apmc-mandi-data-maharashtra: Maharashtra APMC mandi dataset (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19891971
 
 **BibTeX:**
 ```bibtex
